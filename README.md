@@ -1,1 +1,1 @@
-# site1.react
+# site1.json
